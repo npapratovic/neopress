@@ -1,1 +1,5 @@
 https://grapesjs.com/ integrirati u CMS - možda u faza 2?
+
+izvori za html landing stranice:  https://uideck.com/
+
+ako ikada nastane ecommerce verzija, onda se lagano može napraviit thema https://ecommercehtml.com/
